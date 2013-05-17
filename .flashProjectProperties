@@ -1,0 +1,21 @@
+<projectDescription>
+  <id>1274239253538</id>
+  <name>INKTD</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/Ben Lowry/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/Ben Lowry/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///C|/Work/inflashstudios.com/INKTD/INKTD.fla</defaultApp>
+  <rootURI>file:///C|/Work/inflashstudios.com/INKTD/Distributed/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false">
+    <uri label="~INKTD.fla">file:///C|/Work/inflashstudios.com/INKTD/Distributed/~INKTD.fla</uri>
+  </compileList>
+  <recentFiles editable="false">
+    <uri label="Main.as">file:///C|/Work/inflashstudios.com/INKTD/Distributed/Game/Main.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

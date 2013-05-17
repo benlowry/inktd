@@ -1,0 +1,1 @@
+﻿package Game{	import flash.display.Sprite;	import flash.text.TextField;	import flash.text.TextFieldAutoSize;		public final class WaveLabel extends Sprite	{		public var wave:Game.Wave;		public function WaveLabel()		{			cacheAsBitmap = true;		}	}}

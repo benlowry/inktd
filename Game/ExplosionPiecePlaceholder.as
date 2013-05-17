@@ -1,0 +1,1 @@
+﻿package Game{	public final class ExplosionPiecePlaceholder	{		public var x:int;		public var y:int;		public var color:uint;	}}

@@ -1,0 +1,1 @@
+﻿package Game{	public final class ColorModes	{		public static const Blue:uint = 0xFF336699;		public static const Red:uint = 0xFF990000;		public static const Black:uint = 0xFF000000;		public static const Green:uint = 0xFF339933;	}}
